@@ -1,1 +1,1 @@
-![tabelle](tabellewospeichereichmeinedatenab.png.png)
+![tabelle](tabellewospeichereichmeinedatenab.png)
