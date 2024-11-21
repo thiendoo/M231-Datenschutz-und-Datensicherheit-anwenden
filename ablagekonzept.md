@@ -1,0 +1,1 @@
+![ablagekonzept](ablagekonzept.png)
