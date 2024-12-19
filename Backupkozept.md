@@ -7,7 +7,7 @@ Um sicherzustellen, dass ich meine Daten nicht verliere, habe ich ein robustes B
 ### 1. Lokale Backups
 Ich nutze eine externe Festplatte, um regelmässige Backups meines Laptops und PCs zu erstellen. Die wichtigsten Schritte sind:
 
-- **Software:** Ich verwende Software wie `Time Machine` (für macOS) oder `AOMEI Backupper` (für Windows), um inkrementelle Backups zu erstellen.
+- **Software:** Ich verwende Software wie Time Machine (für macOS) oder AOMEI Backupper (für Windows), um inkrementelle Backups zu erstellen.
 - **Frequenz:** Backups werden mindestens einmal pro Woche durchgeführt.
 - **Ordnerstruktur:** Nur wichtige Ordner wie Dokumente, Bilder und Projekte werden gesichert.
 
