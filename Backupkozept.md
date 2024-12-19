@@ -5,7 +5,7 @@
 Um sicherzustellen, dass ich meine Daten nicht verliere, habe ich ein robustes Backup-System eingerichtet. Dieses Konzept schützt meine Dateien sowohl bei einem Geräteausfall als auch bei versehentlichem Datenverlust. Mein Backup-System besteht aus zwei Hauptkomponenten:
 
 ### 1. Lokale Backups
-Ich nutze eine externe Festplatte, um regelmässige Backups meines Laptops und PCs zu erstellen. Die wichtigsten Schritte sind:
+Ich nutze eine externe Festplatte, um regelmässige Backups meines Laptops und PCs zu erstellen. Diese Backups mach ich aber seltener als die Cloud-Backups. Die wichtigsten Schritte sind:
 
 - **Software:** Ich verwende Software wie Time Machine (für macOS) oder AOMEI Backupper (für Windows), um inkrementelle Backups zu erstellen.
 - **Frequenz:** Backups werden mindestens einmal pro Woche durchgeführt.
@@ -14,7 +14,7 @@ Ich nutze eine externe Festplatte, um regelmässige Backups meines Laptops und P
 ### 2. Cloud-Backups
 Zur Ergänzung des lokalen Backups speichere ich meine Daten auch in der Cloud:
 
-- **Dienste:** Ich nutze `iCloud` und `OneDrive` für kritische Dokumente und Projektdateien.
+- **Dienste:** Ich nutze iCloud` und `OneDrive für kritische Dokumente und Projektdateien.
 - **Verschlüsselung:** Dateien werden vor dem Hochladen verschlüsselt, um die Sicherheit zu gewährleisten.
 - **Automatisierung:** Mithilfe von Synchronisationssoftware werden Änderungen automatisch hochgeladen.
 
@@ -26,5 +26,5 @@ Zur Ergänzung des lokalen Backups speichere ich meine Daten auch in der Cloud:
 ## Empfehlung für ein optimales Backup-System
 
 - **Dreifache Speicherung:** Daten sollten lokal, in der Cloud und auf einem zusätzlichen Medium wie einem USB-Stick gesichert werden.
-- **Regelmässige Tests:** Es ist wichtig, Backups regelmässig zu überprüfen, um sicherzustellen, dass sie wiederhergestellt werden können.Bei meinem iPhone kommt immer eine Nachricht wenn ich länger als 2 Wochen kein Back-Up gemacht habe. Zu dem kommt es aber gar nie
+- **Regelmässige Tests:** Es ist wichtig, Backups regelmässig zu überprüfen, um sicherzustellen, dass sie wiederhergestellt werden können.Bei meinem iPhone kommt immer eine Nachricht wenn ich länger als 2 Wochen kein Backup gemacht habe. Zu dem kommt es aber gar nie
 
