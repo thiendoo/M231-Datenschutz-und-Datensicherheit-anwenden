@@ -20,7 +20,7 @@
 
 ## Was sind die "Faktoren" für ein Anmeldeverfahren?
 Die Faktoren für die Authentifizierung können in drei Kategorien eingeteilt werden:
-1. **Wissen**: Etwas, das der Benutzer weiss (z. B. Passwort, PIN).
+1. **Wissen**: Etwas, das der Benutzer weiß (z. B. Passwort, PIN).
 2. **Besitz**: Etwas, das der Benutzer hat (z. B. Smartphone, Sicherheitsschlüssel).
 3. **Biometrie**: Etwas, das der Benutzer ist (z. B. Fingerabdruck, Gesichtserkennung).
 
@@ -42,15 +42,7 @@ Die Faktoren für die Authentifizierung können in drei Kategorien eingeteilt we
 5. Der Server prüft die Signatur mit dem öffentlichen Schlüssel.
 
 ### Zeichnung:
-```plaintext
-Server                              Gerät des Benutzers
-  |                                      |
-  |--- Challenge senden --------------->|
-  |                                      |
-  |<-- Signierte Challenge zurück ------|
-  |                                      |
-  |--- Signatur mit öffentlichem Schlüssel validieren
-```
+![Digitale Signatur Prozess](FIDO.png)
 
 ## Was ist der Vorteil dieses FIDO-Verfahrens?
 - **Höhere Sicherheit**: Es gibt keine Passwörter, die gestohlen oder wiederverwendet werden können.
