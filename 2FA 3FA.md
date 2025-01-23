@@ -19,7 +19,7 @@ Bei 2FA werden zwei dieser drei Kategorien kombiniert, um die Sicherheit zu erh�
 
 ## **3-Faktor-Authentisierung (3FA)**
 
-Die **3-Faktor-Authentisierung** geht noch einen Schritt weiter und kombiniert **alle drei** Kategorien von Authentifizierungsfaktoren. Dadurch wird ein sehr hohes Maß an Sicherheit gewährleistet, da ein Angreifer alle drei Faktoren gleichzeitig kompromittieren müsste, um Zugriff zu erhalten.
+Die **3-Faktor-Authentisierung** geht noch einen Schritt weiter und kombiniert **alle drei** Kategorien von Authentifizierungsfaktoren. Dadurch wird ein sehr hohes Mass an Sicherheit gewährleistet, da ein Angreifer alle drei Faktoren gleichzeitig kompromittieren müsste, um Zugriff zu erhalten.
 
 **Beispiel:**
 - Sie möchten sich in einem hochsicheren System anmelden:
