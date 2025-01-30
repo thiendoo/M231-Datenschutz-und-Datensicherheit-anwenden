@@ -54,4 +54,4 @@ Sie dienen dazu, die Geschäftsbeziehung zwischen Anbieter und Kunde zu standard
 
 1. [AGB von Twitch](https://www.twitch.tv/p/de-de/legal/terms-of-service/)
 2. [AGB von Zalando](https://www.zalando.ch/agb/)
-3. [AGB-Generator von GitHub](https://docs.github.com/de/site-policy/github-terms/github-terms-of-service)
+3. [AGB von GitHub](https://docs.github.com/de/site-policy/github-terms/github-terms-of-service)
