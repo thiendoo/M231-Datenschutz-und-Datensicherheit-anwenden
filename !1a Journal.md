@@ -1,6 +1,6 @@
 # Tag 1
 - Eine Tabelle zum Thema „Wo speichere ich meine Daten?“ wurde erstellt, und ich habe die Grafik für die gehosteten Daten gemacht 
-Tabelle: [Tabelle](Aufgabe 1/WoSpeichereIchMeineDatenAb.md)
+Tabelle: [Tabelle](https://github.com/thiendoo/M231-Datenschutz-und-Datensicherheit-anwenden/blob/033f4a629244a21252b4696f2f1f387aad2bc954/Aufgabe%201/WoSpeichereIchMeineDatenAb.md))
 
 # Tag 2
 - Git wurde installiert und eine Übung durchgeführt. 
